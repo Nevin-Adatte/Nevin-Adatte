@@ -35,7 +35,7 @@
 ## 📊 GitHub Activity
 | ![Arita github stats](https://github-readme-stats.vercel.app/api?username=Nevin-Adatte&show_icons=true&theme=radical)             | ![Aritra GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nevin-Adatte&theme=radical)                                                                                                           |
 | --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nevin-Adatte&langs_count=8&theme=radical&layout=compact) | ![Github Repo Pin](https://github-readme-stats.vercel.app/api/pin/?username=Nevin-Adatte&repo=Account_checkbot&cache_seconds=86400&theme=radical) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nevin-Adatte&langs_count=8&theme=radical&layout=compact) | ![Github Repo Pin](https://github-readme-stats.vercel.app/api/pin/?username=Nevin-Adatte&repo=Portfolio&cache_seconds=86400&theme=radical) |
 
 <br>
 
