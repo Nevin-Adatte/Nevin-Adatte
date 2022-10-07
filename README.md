@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Python3, javascript and Html/Css**
 
-- 📫 How to reach me **chandranrakash@gmail.com**
+- 📫 How to reach me **nevinvadatte@gmailcom**
 
 - ⚡ Fun fact **My life itself is funny!**
 
