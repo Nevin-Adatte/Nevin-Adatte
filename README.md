@@ -6,11 +6,11 @@
 
 - 🔭 I’m currently working on **Fixing My Life**
 
-- 🌱 I’m currently learning **React, C, C#**
+- 🌱 I’m currently learning **Python and MySQL**
 
 - 👯 I’m looking to collaborate on **Account check bot**
 
-- 💬 Ask me about **Python3, javascript and Html/Css**
+- 💬 Ask me about **C and Html/Css**
 
 - 📫 How to reach me **nevinvadatte@gmailcom**
 
