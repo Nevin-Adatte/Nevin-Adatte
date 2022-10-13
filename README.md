@@ -33,6 +33,8 @@
 </table>
 
 [![@nevin_adatte's Holopin board](https://holopin.me/nevin_adatte)](https://holopin.io/@nevin_adatte)
+[![@nevin_adatte's Holopin board](https://holopin.me/nevin_adatte)](https://holopin.io/@nevin_adatte)
+
 ## 📊 GitHub Activity
 | ![Arita github stats](https://github-readme-stats.vercel.app/api?username=Nevin-Adatte&show_icons=true&theme=radical)             | ![Aritra GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nevin-Adatte&theme=radical)                                                                                                           |
 | --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
