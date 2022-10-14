@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nevin V Adatte</h1>
 
-<h3 align="center">Depressed fellow into coding nothing else</h3>
+<h3 align="center">Enthusiastic fellow into coding World</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Nevin-Adatte&label=Profile%20views&color=0e75b6&style=flat" alt="Nevin-Adatte" /> </p>
 
