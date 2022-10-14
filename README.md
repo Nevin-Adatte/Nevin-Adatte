@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Nevin-Adatte&label=Profile%20views&color=0e75b6&style=flat" alt="Nevin-Adatte" /> </p>
 
-- 🔭 I’m currently working on **Fixing My Life**
+- 🔭 I’m currently a **Engineering Student**
 
 - 🌱 I’m currently learning **Python and MySQL**
 
