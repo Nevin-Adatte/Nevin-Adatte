@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently a **Engineering Student**
 
-- 🌱 I’m currently learning **Python and MySQL**
+- 🌱 I’m currently learning **Python and JavaScript**
 
 - 👯 I’m looking to collaborate on **Account check bot**
 
